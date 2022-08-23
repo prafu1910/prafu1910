@@ -1,9 +1,7 @@
 ## Hello, I'm [Prafulla Dhobale!](https://github.com/prafu1910) 👋
 
 
-<a href="https://twitter.com/Aniket_sinu_">
-  <img align="left" alt="Aniket Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
+
 <a href="https://www.linkedin.com/in/prafulla-dhobale-ba053022a">
   <img align="left" alt="Aniket Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
